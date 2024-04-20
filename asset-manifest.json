@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/my-app/static/js/main.57b91662.js",
-    "static/js/453.68693753.chunk.js": "/my-app/static/js/453.68693753.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.57b91662.js.map": "/my-app/static/js/main.57b91662.js.map",
-    "453.68693753.chunk.js.map": "/my-app/static/js/453.68693753.chunk.js.map"
+    "main.js": "/WEB2-Kim-Pokedex%20/static/js/main.cee05bc6.js",
+    "static/js/453.68693753.chunk.js": "/WEB2-Kim-Pokedex%20/static/js/453.68693753.chunk.js",
+    "index.html": "/WEB2-Kim-Pokedex%20/index.html",
+    "main.cee05bc6.js.map": "/WEB2-Kim-Pokedex%20/static/js/main.cee05bc6.js.map",
+    "453.68693753.chunk.js.map": "/WEB2-Kim-Pokedex%20/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.57b91662.js"
+    "static/js/main.cee05bc6.js"
   ]
 }

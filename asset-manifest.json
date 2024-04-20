@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/WEB2-Kim-Pokedex/static/js/main.f73e77bd.js",
+    "main.js": "/WEB2-Kim-Pokedex/static/js/main.e30637b9.js",
     "static/js/453.68693753.chunk.js": "/WEB2-Kim-Pokedex/static/js/453.68693753.chunk.js",
     "index.html": "/WEB2-Kim-Pokedex/index.html",
-    "main.f73e77bd.js.map": "/WEB2-Kim-Pokedex/static/js/main.f73e77bd.js.map",
+    "main.e30637b9.js.map": "/WEB2-Kim-Pokedex/static/js/main.e30637b9.js.map",
     "453.68693753.chunk.js.map": "/WEB2-Kim-Pokedex/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.f73e77bd.js"
+    "static/js/main.e30637b9.js"
   ]
 }
